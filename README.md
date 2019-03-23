@@ -1,0 +1,2 @@
+# TenClickTarot
+Digital tarot readings.
